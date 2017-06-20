@@ -1,1 +1,14 @@
 /* Holiii otra vez */
+.material-icons {
+    color: white;
+    background-color: #ff3333;
+    padding: 5px;
+}
+
+.navbar-default{
+	background: transparent;
+	border-color: transparent;
+}
+.imagenes{
+	padding: 5px;
+}
